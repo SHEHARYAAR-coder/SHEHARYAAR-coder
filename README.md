@@ -78,7 +78,7 @@
   </tr>
    <tr>
       <td align='center'>
-          <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
+          <img src="https://w7.pngwing.com/pngs/307/61/png-transparent-airtable-full-logo-tech-companies-thumbnail.png">
       </td>
         <td align='center'>
           <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" >
