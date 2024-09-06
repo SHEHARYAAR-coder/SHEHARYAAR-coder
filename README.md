@@ -38,7 +38,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width="70">
       </td>
       <td align='center' width="190">
-          <img src="https://microsoft.github.io/computervision-recipes/scenarios/media/logo_cvbp.png" width="60">
+          <img src="https://microsoft.github.io/computervision-recipes/scenarios/media/logo_cvbp.png">
       </td>
       <td align='center'>
           <img src="https://i.pinimg.com/originals/f0/db/f5/f0dbf54f437965521e9aa5d6da2cf6c6.png">
