@@ -78,7 +78,7 @@
   </tr>
    <tr>
       <td align='center'>
-          <img src="https://w7.pngwing.com/pngs/307/61/png-transparent-airtable-full-logo-tech-companies-thumbnail.png">
+          <img src="https://res-academy.cache.wpscdn.com/images/seo_posts/20230922/ffd9956cc0e32627ee12f3ae7016c64b.png">
       </td>
         <td align='center'>
           <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" >
