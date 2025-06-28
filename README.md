@@ -1,6 +1,6 @@
 # Hi there, I'm Shehar Yaar 👋
 
-### I'm an AI Developer at CENTAIC@PAF!
+### I'm an Graduate Research Assistant at Genesys Lab@Fast-NUCES!
 
 * 👨‍💻 Computer Vision Machine Learning Engineer.
 * 🌱 Data Science.
